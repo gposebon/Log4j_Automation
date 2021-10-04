@@ -1,0 +1,8 @@
+20:48:39.889 [main] DEBUG package2.Demo1 - Esto es un log de DEBUG
+20:48:39.901 [main] INFO  package2.Demo1 - Esto es un log de INFO
+20:48:39.901 [main] ERROR package2.Demo1 - Esto es un log de ERROR
+20:48:39.901 [main] FATAL package2.Demo1 - Esto es un log de FATAL
+20:49:11.119 [main] DEBUG package1.Demo - Esto es un log de DEBUG
+20:49:11.123 [main] INFO  package1.Demo - Esto es un log de INFO
+20:49:11.123 [main] ERROR package1.Demo - Esto es un log de ERROR
+20:49:11.123 [main] FATAL package1.Demo - Esto es un log de FATAL
